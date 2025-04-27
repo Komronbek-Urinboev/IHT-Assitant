@@ -1,0 +1,57 @@
+{
+    "-1002417552741": {
+        "name": "ADMIN",
+        "surname": "GROUP",
+        "group": "1-ТН-3",
+        "in_group": "В",
+        "room": "Linux OS",
+        "phone": "Не предоставлено",
+        "telegram_id": "-1002417552741",
+        "username": "NONE"
+    },
+    "6052724492": {
+        "name": "Habibullo👨‍💻 🌟",
+        "surname": "Sidikov",
+        "group": "1-ТН-3",
+        "in_group": "В",
+        "room": "210",
+        "phone": "Не предоставлено",
+        "telegram_id": "6052724492",
+        "username": "LenovoFlex14",
+        "score": 2
+    },
+    "805814155": {
+        "name": "Руслан 🌟",
+        "surname": "Хан",
+        "group": "1-ТН-3",
+        "subgroup": "В",
+        "in_group": "В",
+        "room": "210",
+        "phone": "Не предоставлено",
+        "telegram_id": "805814155",
+        "username": "Biruza_RL",
+        "score": 2
+    },
+    "7232041443": {
+        "name": "Комронбек",
+        "surname": "Уринбоев",
+        "group": "1-ТН-3",
+        "subgroup": "В",
+        "in_group": "В",
+        "room": "210",
+        "telegram_id": "7232041443",
+        "username": "asalchining_uyi",
+        "score": 1
+    },
+    "7393504121": {
+        "name": "Komronbek",
+        "surname": "Urinboev",
+        "group": "1-ТН-3",
+        "subgroup": "В",
+        "in_group": "В",
+        "room": "210",
+        "telegram_id": "7393504121",
+        "username": "Komronbek_Urinboev",
+        "score": 6
+    }
+}
