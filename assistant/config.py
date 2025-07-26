@@ -1,14 +1,12 @@
 #config.py
-TOKEN2 = "7720079938:AAEpV3mmIqGw09zOjVWW-TVkNT1xL1ATbUY"
-# 7884817066:AAGslTS6xer8i-_yWUyaieTue9mehihHRLk
+TOKEN2 = ""
 
 
 
-MUSIC_RECEIVER_ID = -1002566675555  # ID человека, которому отправляется музыка
-SU_IDS = [-1002576778587]
-ADMIN_IDS = [-1002417552741, 7393504121, 6052724492]
-CHANNEL_ID = [-1002302327144]
-# Telegram ID администраторов
-# 7393504121, 7232041443, 6052724492
+
+MUSIC_RECEIVER_ID =   # ID человека, которому отправляется музыка
+SU_IDS = [-123]
+ADMIN_IDS = [-123, 345, 678
+CHANNEL_ID = [-12345]
 
 print("Модуль config загружен")
